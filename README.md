@@ -8,7 +8,7 @@ This is the source code for Reboot Devices, a simple code to reboot Meraki devic
 ## Installation:
 ####
 ```console
-git clone
+git clone https://github.com/YiRenRenYi/RebootDevices.git
 ```
 #### Set up a Python venv
 First make sure that you have Python 3 installed on your machine. We will then be using venv to create
