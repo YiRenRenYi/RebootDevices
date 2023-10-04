@@ -3,7 +3,7 @@
 This is the source code for Reboot Devices, a simple code to reboot Meraki devices in bluk using Meraki API calls.
 
 ## Solution Components
-* Meraki Dashboard API's
+* Meraki Dashboard API
 
 ## Installation:
 ####
