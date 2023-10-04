@@ -52,7 +52,7 @@ Use the Meraki dashboard to download device serial number, and put in the MX.csv
 
 Run the code main.py. It will read the serial number from the MX.csv file and reboot the device one-by-one.
 
-The devices failed to be rebooted will be write into the file RebootFailedDevices.csv with their serial numbers. Please take a copy of the serial numbers before you re-run the code, as the file will be re-writed.
+The devices failed to be rebooted will be listed into the file RebootFailedDevices.csv with their serial numbers. Please take a copy of the serial numbers before you re-run the code, as the file will be re-writed.
 
 Copy and paste the serial numbers from the RebootFailedDevices.csv into MX.csv, and run the code main.py again to reboot these devices until all devices get rebooted successfully.
 
