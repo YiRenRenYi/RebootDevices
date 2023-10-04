@@ -22,7 +22,7 @@ $ pip install virtualenv
 ##### Create a new venv
 ```
 Change to your project folder
-$ cd GVE_Devnet_Meraki_Syslog_Parser
+$ cd code
 
 Create the venv
 $ virtualenv venv
